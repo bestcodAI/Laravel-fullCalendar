@@ -15,7 +15,7 @@ How to install my project to pc pleas follow comment below: <br/>
 1.into .env file and create database  <br/>
 2.php artisan key:generate (generat key) <br/>
 2.composer install (install vendor)
-[:heart: Sponsor](https://link.payway.com.kh/aba?id=69ABF0913022&code=665016&acc=500451373)
-![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/<username>)
+<h3 align="left">Support me:</h3>
+</a><a href="https://link.payway.com.kh/aba?id=69ABF0913022&code=665016&acc=500451373"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="coffee" /></a></p><br><br>
 
 
