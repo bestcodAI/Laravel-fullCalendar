@@ -14,9 +14,9 @@ How to install my project to pc pleas follow comment below: <br/>
 -Create database in .env
 1.into .env file and create database  <br/>
 2.php artisan key:generate (generat key) <br/>
-3.composer install (install vendor)
-4.php artisan migrate
-5.php artisan serve
+3.composer install (install vendor)<br/>
+4.php artisan migrate <br/>
+5.php artisan serve <br/>
 
 <br/>
 <h3 align="left">Support me:</h3>
