@@ -11,11 +11,15 @@
 ## Laravel Calendar
 
 How to install my project to pc pleas follow comment below: <br/>
--Create database in .env
+- Create database<br/>
 1.into .env file and create database  <br/>
+- Create key generate<br/>
 2.php artisan key:generate (generat key) <br/>
+- install vendor <br/>
 3.composer install (install vendor)<br/>
+- Migrate table to database <br/>
 4.php artisan migrate <br/>
+- Run this project <br/>
 5.php artisan serve <br/>
 
 <br/>
